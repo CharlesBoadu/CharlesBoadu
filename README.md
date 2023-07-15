@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesBoadu
 - 👀 I am a software engineer interested in solving real world problems using technology
-- 🌱 I am a full stack develop with Nextjs as my frontend framework and Nodejs with Express as my backend toolkit
+- 🌱 I am a full stack developer with Nextjs as my frontend framework and Nodejs with Express as my backend toolkit
 - 💞️ I’m looking to collaborate on projects and to work with persons in the industry to help sharpen my skills
 - 📫 You can contact me on +233 055 510 5055...
 
