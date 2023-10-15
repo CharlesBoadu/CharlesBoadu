@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Osei Boadu</h1>
 <h3 align="center">A full stack developer passionate about solving real world problems using technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesboadu" alt="charlesboadu" /></a> </p>
-
 - 🔭 I’m currently working on **CRM**
 
 - 📫 How to reach me **cbodoc32@gmail.com / +233 055 510 5055**
