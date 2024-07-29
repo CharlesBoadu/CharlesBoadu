@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles Osei Boadu</h1>
 <h3 align="center">A full stack developer passionate about solving real world problems using technology</h3>
 
-- 🔭 I’m currently working on **CRM**
+- 🔭 I’m currently working on a **Bot Platform**
 
 - 📫 How to reach me **cobdoc32@gmail.com / +233 055 510 5055**
 
