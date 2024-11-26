@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **cobdoc32@gmail.com / +233 055 510 5055**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NFYW114mKIk2gvhzOMCEQfX3O7oOwyCv/view?usp=sharing](https://drive.google.com/file/d/1NFYW114mKIk2gvhzOMCEQfX3O7oOwyCv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JbJed-aQisLAhS-Ik4Rq73COH32qTaXM/view?usp=sharing](https://drive.google.com/file/d/1JbJed-aQisLAhS-Ik4Rq73COH32qTaXM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
